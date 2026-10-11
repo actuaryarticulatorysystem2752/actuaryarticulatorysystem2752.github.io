@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://balagaraghuramimages.github.io/balagaraghuram_images.github.io/sitemap.xml
+Sitemap: https://balagaraghuramimages.github.io/balagaraghuram_images.github.io/sitemap-images.xml
